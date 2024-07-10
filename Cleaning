@@ -1,6 +1,6 @@
 Proses Cleaning menggunakan Python
 
-# Library
+#Library
 
 import pandas as pd
 import numpy as np
