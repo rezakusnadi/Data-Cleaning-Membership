@@ -1,4 +1,4 @@
-#Data-Cleaning-Membership
+# Data-Cleaning-Membership
 
 Data yang digunakan pada _project_ ini adalah data 'Gym Membership', dan melakukan _Cleaning treatment_ pada data RAW tersebut,
 dari data yang telah "Bersih" dapat di tampilkan Visualisasi dan ditambahkan Feature Engineering untuk Proses Machine Learning.
