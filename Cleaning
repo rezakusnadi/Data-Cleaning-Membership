@@ -16,3 +16,8 @@ import seaborn as sns
 
 from sklearn.impute import KNNImputer
 from sklearn.compose import ColumnTransformer, make_column_selector
+
+SELECT 
+	*
+FROM club_member_info
+LIMIT 10;
