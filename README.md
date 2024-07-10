@@ -2,7 +2,7 @@
 
 Data yang digunakan pada _project_ ini adalah data 'Gym Membership', dan melakukan _Cleaning treatment_ pada data RAW tersebut,
 dari data yang telah "Bersih" dapat di tampilkan Visualisasi dan ditambahkan Feature Engineering untuk Proses Machine Learning.
-Juga dapad ditarik insight dari segi bussiness analyst dari data tsb.
+Dan selanjutnya ditarik insight dari segi bisnis dari data tsb.
 
 Data Cleaning : 
 1. Missing Value Check
