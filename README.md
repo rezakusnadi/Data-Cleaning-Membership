@@ -1,6 +1,6 @@
 # Data-Cleaning-Membership
 
-Data yang digunakan pada _project_ ini adalah data 'Gym Membership', dan melakukan _Cleaning treatment_ pada data RAW tersebut,
+Data yang digunakan pada _project_ ini adalah data 'Gym Membership', dan melakukan _Cleaning treatment_ menggunakan Python pada data RAW tersebut,
 dari data yang telah "Bersih" dapat di tampilkan Visualisasi dan ditambahkan Feature Engineering untuk Proses Machine Learning.
 Dan selanjutnya ditarik insight dari segi bisnis dari data tsb.
 
