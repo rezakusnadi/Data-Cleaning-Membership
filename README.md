@@ -4,7 +4,7 @@ Data yang digunakan pada _project_ ini adalah data 'Gym Membership', dan melakuk
 dari data yang telah "Bersih" dapat di tampilkan Visualisasi dan ditambahkan Feature Engineering untuk Proses Machine Learning.
 Dan selanjutnya ditarik insight dari segi bisnis dari data tsb.
 
-Data Cleaning : 
+# Data Cleaning : 
 1. Missing Value Check
 2. Duplicate Check
 3. Numerical Columns
@@ -17,16 +17,19 @@ Data Cleaning :
 10. Cleaning Membership Date Column (Replace Data)
 11. Remove Duplicate
 
-Data Visualisasi : 
+# Data Visualisasi : 
 1. Age Distribution
 2. Marital Distribution
 3. Job Titel Freq
 4. Membership Date Trend
 5. Geo Distribution
 
-Feature Engineering :
+# Feature Engineering :
 1. Age Group
 2. Membership Duration
 3. City & State
 4. Membership Month & Year
 5. Is Married
+
+
+# Data Understanding
