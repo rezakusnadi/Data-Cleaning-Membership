@@ -34,4 +34,16 @@ Dan selanjutnya ditarik insight dari segi bisnis dari data tsb.
 
 # Data Understanding
 - Insight statement
-  1.  Dari Age Distribution dapat di identifikasi majority age range sehingga dapat di maksimalkan strategi untuk pada demografi age tsb 
+  1.  Dari Age Distribution dapat di identifikasi majority age range sehingga dapat di maksimalkan strategi New member untuk pada demografi age tsb yang sesuai dengan target, ataupun memberikan service dan kebutuhan yang sesuai age group nya
+     ![image](https://github.com/rezakusnadi/Data-Cleaning-Membership/assets/92531579/787f544f-520b-46cc-8384-fa5c1bf366da)
+  2.  Marital Status terbanyak pada Married status, dapat di maksimal kan event or promotion yang bertema family, for the new member ataupun layanan yang dapat di sesuaikan dengan marital status para member
+     ![image](https://github.com/rezakusnadi/Data-Cleaning-Membership/assets/92531579/0705688b-5187-488c-b7a1-87dc0a07f8c4)
+  3.  Dari Top 5 Freq Job Title, ternyata banyak White Collar yang menjadi membe, insight untuk targeted promotional selanjutnya,
+      juga terdapat banyak null dalam pengisian, concern dalam pengisian data member
+     ![image](https://github.com/rezakusnadi/Data-Cleaning-Membership/assets/92531579/8cc8fe5c-adc7-49fc-9ada-f50994f28f5d)
+  4.  Mengambil Membership Trend pada recent tahun pada data 2022,
+      dapat di lihat pola musiman dalam pendaftaran, untuk dapat membantu perencanaan promosi atau event
+     ![image](https://github.com/rezakusnadi/Data-Cleaning-Membership/assets/92531579/0549925e-0a5b-4ea1-8854-60792f84b768)
+  5.  aktifitas dan efektifitas outlet pada setiap kota, evaluasi outlet
+     ![image](https://github.com/rezakusnadi/Data-Cleaning-Membership/assets/92531579/324ba26c-2b40-45a3-a700-e6f54458902a)
+
