@@ -20,7 +20,7 @@ Dan selanjutnya ditarik insight dari segi bisnis dari data tsb.
 # Data Visualisasi : 
 1. Age Distribution
 2. Marital Distribution
-3. Job Titel Freq
+3. Job Title Freq
 4. Membership Date Trend
 5. Geo Distribution
 
