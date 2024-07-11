@@ -33,3 +33,5 @@ Dan selanjutnya ditarik insight dari segi bisnis dari data tsb.
 
 
 # Data Understanding
+- Insight statement
+  1.  Dari Age Distribution dapat di identifikasi majority age range sehingga dapat di maksimalkan strategi untuk pada demografi age tsb 
