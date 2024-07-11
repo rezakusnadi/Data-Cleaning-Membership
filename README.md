@@ -4,6 +4,13 @@ Data yang digunakan pada _project_ ini adalah data 'Gym Membership', dan melakuk
 dari data yang telah "Bersih" dapat di tampilkan Visualisasi dan ditambahkan Feature Engineering untuk Proses Machine Learning.
 Dan selanjutnya ditarik insight dari segi bisnis dari data tsb.
 
+Case Stages
+- Data Cleaning
+- Data Visualisasi
+- Feature Engineering
+- Data Understanding
+- PowerBI Dashboard
+
 # Data Cleaning : 
 1. Missing Value Check
 2. Duplicate Check
@@ -46,4 +53,13 @@ Dan selanjutnya ditarik insight dari segi bisnis dari data tsb.
      ![image](https://github.com/rezakusnadi/Data-Cleaning-Membership/assets/92531579/0549925e-0a5b-4ea1-8854-60792f84b768)
   5.  aktifitas dan efektifitas outlet pada setiap kota, evaluasi outlet
      ![image](https://github.com/rezakusnadi/Data-Cleaning-Membership/assets/92531579/324ba26c-2b40-45a3-a700-e6f54458902a)
+
+# PowerBI Dashboard
+
+  Membership Dashboard
+  ![image](https://github.com/rezakusnadi/Data-Cleaning-Membership/assets/92531579/2a645e49-6f2c-4129-881c-9a2a33480e53)
+  
+  Tooltip For City on Top State <br>
+    ![image](https://github.com/rezakusnadi/Data-Cleaning-Membership/assets/92531579/4e29aa5f-a632-4093-a2a5-1d29425c59c5)
+
 
