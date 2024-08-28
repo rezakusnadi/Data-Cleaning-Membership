@@ -4,7 +4,7 @@ Data yang digunakan pada _project_ ini adalah data 'Gym Membership', dan melakuk
 dari data yang telah "Bersih" dapat di tampilkan Visualisasi dan ditambahkan Feature Engineering untuk Proses Machine Learning.
 Dan selanjutnya ditarik insight dari segi bisnis dari data tsb.
 
-Case Stages
+Approach Stages
 - Data Cleaning
 - Data Visualisasi
 - Feature Engineering
