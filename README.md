@@ -12,6 +12,7 @@ Approach Stages
 - PowerBI Dashboard
 
 # Data Cleaning : 
+Berikut beberapa proses cleaning data yang di lakukan
 1. Missing Value Check
 2. Duplicate Check
 3. Numerical Columns
@@ -24,7 +25,8 @@ Approach Stages
 10. Cleaning Membership Date Column (Replace Data)
 11. Remove Duplicate
 
-# Data Visualisasi : 
+# Data Visualisasi :
+Visualisasi berupa 
 1. Age Distribution
 2. Marital Distribution
 3. Job Title Freq
